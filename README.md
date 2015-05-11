@@ -1,5 +1,7 @@
 # How to Deploy a Harp App in GitHub Pages
 
+**NOTE:** Node.js, Node Package Manager and Harp.js must be installed before proceeding. Resources are available at foot of page.
+
 1. Create repository in GitHub / initialize with readme
 
 2. Terminal: Clone Repository to your local machine
@@ -14,7 +16,12 @@
 5. Remove all files in folder
   * $ git rm -rf
 
-6. Init harp app with blog
+6. Init harp app
+ * $ harp init _harp
+   
+  **OR**
+   
+   Init harp app with basic example blog template
  * $ harp init _harp --boilerplate harp-boilerplates/hb-blog
 
 7. Compile harp app
@@ -24,7 +31,7 @@
   * $ git add -A
 
 9. Commit Git changes
-  * $ git commit -a -m "Harp + pages + boilerplate commit"
+  * $ git commit -a -m "_insert commit message here_"
 
 10. Git push changes to repository
   * $ git push origin gh-pages
