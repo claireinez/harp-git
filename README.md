@@ -33,8 +33,8 @@
 ----------------------
 Additional Resources
 ----------------------
-http://harpjs.com/docs/deployment/github-pages
-https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
-https://github.com/harp-boilerplates/hb-blog#controlling-your-content
-http://harpjs.com/docs/deployment/github-pages
-http://harpjs.com/docs/environment/install
+* http://harpjs.com/docs/deployment/github-pages
+* https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+* https://github.com/harp-boilerplates/hb-blog#controlling-your-content
+* http://harpjs.com/docs/deployment/github-pages
+* http://harpjs.com/docs/environment/install
