@@ -1,4 +1,4 @@
-# harp-git
+# How to Deploy a Harp App in GitHub Pages
 
 1. Create repository in GitHub / initialize with readme
 
@@ -28,3 +28,13 @@
 
 10. Git push changes to repository
   * $ git push origin gh-pages
+
+
+----------------------
+Additional Resources
+----------------------
+http://harpjs.com/docs/deployment/github-pages
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+https://github.com/harp-boilerplates/hb-blog#controlling-your-content
+http://harpjs.com/docs/deployment/github-pages
+http://harpjs.com/docs/environment/install
