@@ -34,7 +34,9 @@
   * $ git commit -a -m "_insert commit message here_"
 
 10. Git push changes to repository
-  * $ git push origin gh-pages
+  * $ git push origin gh-pageso
+
+11. Your page can be found at [username].github.io/[repository].
 
 
 ----------------------
