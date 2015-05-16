@@ -4,8 +4,9 @@
 
 1. Create repository in GitHub / initialize with readme
 
-2. Terminal: Clone Repository to your local machine
+2. Terminal: Clone Repository to your local machine using either HTTPS (first option) or SSH (SSH must be set up first)
   * $ git clone https://github.com/[username]/[repository]
+  * $ git clone git@github.com:[username]/[repository].git
 
 3. Go to repo directory
   * $ cd **_repository_**
